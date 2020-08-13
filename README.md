@@ -36,5 +36,5 @@ Chrome버전에 맞는 ChromeDriver를 설치해야한다.
 ----------
 ### 4. 실행방법
 * file_path, site_name, keyword, chromedriver_path를 사용자의 환경에 맞게 변경한다.
-* 실행부의 crawling()함수를 실행하면 아래에 테이블구조를 볼 수 있으며 지정한 경로에 '쇼핑몰명_키워드명.csv'형태의 파일이 생성된다.
+* Run의 crawling()함수를 실행하면 아래에 테이블구조를 볼 수 있으며 지정한 경로에 '쇼핑몰명_키워드명.csv'형태의 파일이 생성된다.
   * ex) Auction_hemp.csv
