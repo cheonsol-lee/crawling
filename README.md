@@ -1,7 +1,7 @@
 # Crawling
 국내/외 쇼핑몰 크롤링
 
-#### *Made by cheonsol lee - Updated(2020.08.13)* ####
+#### *Made by cheonsol lee - Updated(2020.09.17)* ####
 
 ----------
 ### 1. 목적
